@@ -1,10 +1,10 @@
 # Hardware-Store-Management
 
-# This is a user friendly GUI application to manage the work of a physical goods store.
+#This is a user friendly GUI application to manage the work of a physical goods store.
 
--> Programming language used - Java
--> IDE - netbeans
--> Database - mysql
+-[Programming language used - Java]
+-[IDE - netbeans]
+-[Database - mysql]
 
 
 # Key Features
